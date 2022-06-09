@@ -5,9 +5,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <RepositoryUrl>https://github.com/xw328907/DotNet.Tools</RepositoryUrl>
+    <RepositoryUrl>https://github.com/xw328907/YanAn</RepositoryUrl>
     <Description>dotnet tools library</Description>
-    <PackageProjectUrl>https://github.com/xw328907/DotNet.Tools</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/xw328907/YanAn</PackageProjectUrl>
     <PackageId>$(AssemblyName)</PackageId>
     <Authors>ZeroBug</Authors>
     <PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
