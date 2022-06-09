@@ -1,5 +1,5 @@
 ﻿
-namespace DotNet.Tools.Const
+namespace YanAn.Const
 {
     /// <summary>
     /// 日期时间常量

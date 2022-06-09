@@ -4,6 +4,12 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <RepositoryUrl>https://github.com/xw328907/DotNet.Tools</RepositoryUrl>
+    <Description>dotnet常用公用方法及工具类</Description>
+    <PackageProjectUrl>https://github.com/xw328907/DotNet.Tools</PackageProjectUrl>
+    <PackageId>$(AssemblyName)</PackageId>
+    <Authors>ZeroBug</Authors>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">

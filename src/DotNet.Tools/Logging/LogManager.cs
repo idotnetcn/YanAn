@@ -1,8 +1,8 @@
 ﻿using System.Collections.Concurrent;
 using System.Text.RegularExpressions;
-using DotNet.Tools.Extensions;
+using YanAn.Extensions;
 
-namespace DotNet.Tools.Logging
+namespace YanAn.Logging
 {
     public class LogManager
     {

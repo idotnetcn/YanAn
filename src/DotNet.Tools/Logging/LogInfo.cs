@@ -1,5 +1,5 @@
 ﻿
-namespace DotNet.Tools.Logging
+namespace YanAn.Logging
 {
     public class LogInfo
     {

@@ -1,5 +1,5 @@
 ﻿
-namespace DotNet.Tools.Extensions
+namespace YanAn.Extensions
 {
     public static class DateTimeExtensions
     {

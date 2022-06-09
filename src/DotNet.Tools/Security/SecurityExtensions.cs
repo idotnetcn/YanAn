@@ -1,7 +1,7 @@
 ﻿using System.Security.Cryptography;
-using DotNet.Tools.Extensions;
-using DotNet.Tools.Logging;
-namespace DotNet.Tools.Security
+using YanAn.Extensions;
+using YanAn.Logging;
+namespace YanAn.Security
 {
     public static class SecurityExtensions
     {
