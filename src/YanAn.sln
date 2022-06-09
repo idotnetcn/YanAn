@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YanAn", "DotNet.Tools\YanAn.csproj", "{FA9A3924-6901-410E-B03B-DA9B8CDBEE05}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YanAn", "YanAn\YanAn.csproj", "{FA9A3924-6901-410E-B03B-DA9B8CDBEE05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
